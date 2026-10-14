@@ -291,7 +291,8 @@ Potential improvements include:
 
 The diagram below illustrates the workflow of the customer support agent.
 
-![LangGraph Customer Support Agent Architecture]( <img width="479" height="233" alt="image" src="https://github.com/user-attachments/assets/b36693c0-4932-4f00-b398-5566a13a0b4a" />)
+![LangGraph Customer Support Agent Architecture](https://github.com/user-attachments/assets/18eaad35-dd75-4fd0-b37b-79f78e1adada"
+).
 
 
 ## Author
