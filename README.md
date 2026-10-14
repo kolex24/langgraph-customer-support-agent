@@ -287,12 +287,13 @@ Potential improvements include:
 * Evaluation of answer quality and tool-selection accuracy
 * Production deployment with managed database connectivity
 
-## Agent Architecture
+<h2>Agent Architecture</h2>
 
-The diagram below illustrates the workflow of the customer support agent.
-
-![LangGraph Customer Support Agent Architecture](https://github.com/user-attachments/assets/18eaad35-dd75-4fd0-b37b-79f78e1adada"
-).
+<img
+  src="https://github.com/user-attachments/assets/3fb98107-0a26-4709-b7cc-a19122918532"
+  alt="LangGraph Customer Support Agent Architecture"
+  width="479"
+/>
 
 
 ## Author
